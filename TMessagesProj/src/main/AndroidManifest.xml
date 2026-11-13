@@ -10,6 +10,8 @@
         <intent>
             <action android:name="org.openintents.openpgp.action.*" />
         </intent>
+	<package android:name="com.android.vending" />
+	<package android:name="com.google.android.gms" />
     </queries>
 
 
